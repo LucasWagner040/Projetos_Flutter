@@ -42,7 +42,8 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.projeto_flutter_vscode"
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "com.example.calculo_imc"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
